@@ -1,0 +1,17 @@
+{
+  "name": "CLI_HOME",
+  "short_name": "CLI_HOME",
+  "description": "Terminal productivity dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
