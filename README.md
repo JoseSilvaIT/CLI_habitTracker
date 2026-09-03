@@ -15,7 +15,7 @@ However, this can sometimes make it overwhelming for users to simply schedule an
 
 # Contexto
 
-la nueva ola de la productividad y el habit tracking, son algo que el mercado ha sabido explotar. La productividad y la necesidad de organizar aspectos de la vida diaria se han vuelto la obsecion de nuestros tiempos, han surgido diferentes aplicaciones que intentan emular este ambiente de organizacion con herramientas como Pomodoros, Calendarios, Notas, Etc. esto a veces ocaciona que sea abrumador para el usuario simplmente agendar sus tareas de manera eficiente por eso he decidido crear una herramienta gratuita a través de JavaScript. enfocada en el minimalismo. con un diseño minimalista inspirado en las terminales de los sistemas unix-like.
+La nueva ola de la productividad y el habit tracking es algo que el mercado ha sabido explotar. La productividad y la necesidad de organizar aspectos de la vida diaria se han vuelto la obsesión de nuestros tiempos. Han surgido diferentes aplicaciones que intentan emular este ambiente de organización con herramientas como Pomodoros, calendarios, notas, etc. Esto a veces ocasiona que sea abrumador para el usuario simplemente agendar sus tareas de manera eficiente. Por eso, he decidido crear una herramienta gratuita a través de JavaScript, enfocada en el minimalismo, con un diseño minimalista inspirado en las terminales de los sistemas Unix-like.
 
 ## Project Structure
 
