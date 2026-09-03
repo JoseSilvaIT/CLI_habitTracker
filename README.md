@@ -39,6 +39,7 @@ cli-home/
 ├── package-lock.json
 ├── sw.js
 └── README.md
+```
 
 ## Technologies
 
